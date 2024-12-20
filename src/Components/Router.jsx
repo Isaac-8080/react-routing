@@ -9,7 +9,7 @@ import {
   import Contact from "../Pages/Contact"
   import Services from "../Pages/Services"
   import Layout from "../PageLayouts/Layout"
-  import ServiceDetails from "./ServiceDetails"
+  import ServiceDetails from "../Pages/ServiceDetails"
 
 const Router = () => {
 
